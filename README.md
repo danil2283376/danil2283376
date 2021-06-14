@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Danil
+![](https://komarev.com/ghpvc/?username=danil2283376)
 
 ## I`m Novice programmer, and student School 21
-![](https://komarev.com/ghpvc/?username=danil2283376)
+- 💪 I like to write code
+- 🎉 I love developing games
+- 🥅 I am constantly learning new things
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danil2283376)
 
