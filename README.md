@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danil2283376)
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danil2283376&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
