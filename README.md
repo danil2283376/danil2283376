@@ -12,9 +12,6 @@
   </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/67260052/122507872-b2eb9a00-d009-11eb-8459-dcd9072c8483.png)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danil2283376)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danil2283376&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
