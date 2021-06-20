@@ -6,6 +6,11 @@
 - 🎉 I love developing games
 - 🥅 I am constantly learning new things
 
+<p align="center">
+  <a href="https://github.com/danil2283376">
+    <img src="https://badge42.herokuapp.com/api/stats/scolen?darkmode=true"/>
+  </a>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danil2283376)
 
