@@ -7,7 +7,7 @@
 - 🥅 I am constantly learning new things
 
 <p align="center">
-  <a href="https://github.com/danil2283376">
+  <a href="https://profile.intra.42.fr/">
     <img src="https://badge42.herokuapp.com/api/stats/scolen?darkmode=true"/>
   </a>
 </p>
