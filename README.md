@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Danil
 ![](https://komarev.com/ghpvc/?username=danil2283376)
 
-## I`m Novice programmer, and student School 21
+## I`m programmer, and student School 21
 - 💪 I like to write code
 - 🎉 I love developing games
 - 🥅 I am constantly learning new things
