@@ -6,12 +6,6 @@
 - 🎉 I love developing games
 - 🥅 I am constantly learning new things
 
-<p align="center">
-  <a href="https://profile.intra.42.fr/">
-    <img src="https://badge42.herokuapp.com/api/stats/scolen?darkmode=true"/>
-  </a>
-</p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danil2283376)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danil2283376&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
